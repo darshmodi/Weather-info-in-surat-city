@@ -1,0 +1,16 @@
+
+
+.weather-container{
+    text: bold;
+    text-align: center;
+    font-size: 40px;
+    margin : 0;
+    padding: 0;
+}
+
+.unit{
+    text:italic;
+    text-align : right;
+    font-size: 20px;
+    
+}
